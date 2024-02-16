@@ -1,0 +1,11 @@
+{
+  "name": "test_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo Wow Such Test && exit 0"
+  },
+  "author": "",
+  "license": "ISC"
+}
